@@ -1,5 +1,7 @@
 # AngularTourOfHeroes
 
+This is a Tour of Heroes app using Angular with an In-Memory Data Service instead of a backend database. When you click on the Dashboard button, you get the 4 top heroes. When you click on the Heroes button, you get the list of all the heroes. A new hero can be added to the list of heroes. A hero can also be deleted. Messages get displayed whenever a delete/fetch/add action is done. You can also clear the messages. If you click on a Hero, you get presented with detail about that hero. You can also search for a hero by name and it will come up with a close matches dropdown list as you type letters of the hero’s name, which you can select the hero from the drop down list. 
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.2.
 
 ## Development server
